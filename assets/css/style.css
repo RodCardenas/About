@@ -247,6 +247,10 @@ strong{
   color: rgba(158, 25, 25, 1);
 }
 
+.right-arrow:before {
+    content: "\00A0\00A0\027A4";
+}
+
 .about{
   text-decoration: none;
   text-transform: uppercase;
