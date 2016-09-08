@@ -385,7 +385,7 @@ strong{
 
 .social-links img{
   transition-duration: 1s;
-  transition-property: opacity;
+  transition-property: color opacity;
   -webkit-filter: opacity(50%);
   filter: opacity(50%);
 }
